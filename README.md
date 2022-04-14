@@ -14,3 +14,13 @@ Tommy Janna
 
 March 30, 2022
 
+## Building
+The project can be built in the Qt Creator editor, or at the command line using qmake as follows.
+```bash
+qmake && make
+./movie-database
+```
+Developed and tested using
+* Debian 11
+* Qt Version 5.15.3
+* Qt Creator 7.0.0 (flathub)
